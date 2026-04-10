@@ -1,0 +1,11 @@
+{
+  "n_sequences": 5,
+  "alignment_length": 253,
+  "mean_omega": 0.05156941455589947,
+  "high_variability_sites": 0,
+  "fu_li_F": -0.0001598407569178654,
+  "tajimas_D_mean": -0.016240762082317978,
+  "wht_additive_fraction": 0.0033030790441177273,
+  "wht_pairwise_fraction": 0.0348977481617655,
+  "wht_higher_fraction": 0.9610811121323521
+}
